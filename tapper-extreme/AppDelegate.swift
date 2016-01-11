@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  tapper-extreme
 //
-//  Created by Mark Price on 7/29/15.
-//  Copyright © 2015 devslopes. All rights reserved.
+//  Created by Dean Marriott on 11/1//16 as part of the devslopes ios developer course.
+//  Copyright © 2016 gizmu. All rights reserved.
 //
 
 import UIKit
